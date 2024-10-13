@@ -1,2 +1,2 @@
-# Demonstrative-the-Generative-Number-
-Demonstrative the Generative Number 
+# Demonstrative-the-Generative-Number Project-
+Demonstrative the Generative Number Project 
